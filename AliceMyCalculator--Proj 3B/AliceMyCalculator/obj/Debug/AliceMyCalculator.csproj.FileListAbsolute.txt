@@ -1,0 +1,43 @@
+G:\Fall 2018\6020-.Net pgmng fndmtls\Project2\AliceMyCalculator\AliceMyCalculator\bin\Debug\AliceMyCalculator.exe.config
+G:\Fall 2018\6020-.Net pgmng fndmtls\Project2\AliceMyCalculator\AliceMyCalculator\bin\Debug\AliceMyCalculator.exe
+G:\Fall 2018\6020-.Net pgmng fndmtls\Project2\AliceMyCalculator\AliceMyCalculator\bin\Debug\AliceMyCalculator.pdb
+G:\Fall 2018\6020-.Net pgmng fndmtls\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.csprojAssemblyReference.cache
+G:\Fall 2018\6020-.Net pgmng fndmtls\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.Properties.Resources.resources
+G:\Fall 2018\6020-.Net pgmng fndmtls\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.csproj.GenerateResource.cache
+G:\Fall 2018\6020-.Net pgmng fndmtls\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.csproj.CoreCompileInputs.cache
+G:\Fall 2018\6020-.Net pgmng fndmtls\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.exe
+G:\Fall 2018\6020-.Net pgmng fndmtls\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.pdb
+G:\Fall 2018\6020-.Net pgmng fndmtls\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.frmStartPage.resources
+C:\Users\xiaol\OneDrive\桌面\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\bin\Debug\AliceMyCalculator.exe.config
+C:\Users\xiaol\OneDrive\桌面\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\bin\Debug\AliceMyCalculator.exe
+C:\Users\xiaol\OneDrive\桌面\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\bin\Debug\AliceMyCalculator.pdb
+C:\Users\xiaol\OneDrive\桌面\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.csprojAssemblyReference.cache
+C:\Users\xiaol\OneDrive\桌面\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.frmStartPage.resources
+C:\Users\xiaol\OneDrive\桌面\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.Properties.Resources.resources
+C:\Users\xiaol\OneDrive\桌面\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.csproj.GenerateResource.cache
+C:\Users\xiaol\OneDrive\桌面\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\xiaol\OneDrive\桌面\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.exe
+C:\Users\xiaol\OneDrive\桌面\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.pdb
+C:\Users\xiaol\OneDrive\桌面\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.Multiplication.resources
+C:\CU Denver Courses\.Net Programming Fundamentals\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\bin\Debug\AliceMyCalculator.exe.config
+C:\CU Denver Courses\.Net Programming Fundamentals\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\bin\Debug\AliceMyCalculator.exe
+C:\CU Denver Courses\.Net Programming Fundamentals\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\bin\Debug\AliceMyCalculator.pdb
+C:\CU Denver Courses\.Net Programming Fundamentals\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.csprojAssemblyReference.cache
+C:\CU Denver Courses\.Net Programming Fundamentals\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.frmStartPage.resources
+C:\CU Denver Courses\.Net Programming Fundamentals\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.Multiplication.resources
+C:\CU Denver Courses\.Net Programming Fundamentals\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.Properties.Resources.resources
+C:\CU Denver Courses\.Net Programming Fundamentals\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.csproj.GenerateResource.cache
+C:\CU Denver Courses\.Net Programming Fundamentals\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.csproj.CoreCompileInputs.cache
+C:\CU Denver Courses\.Net Programming Fundamentals\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.exe
+C:\CU Denver Courses\.Net Programming Fundamentals\ISMG-6020-Project-2-master\ISMG-6020-Project-2-master\Project2\AliceMyCalculator\AliceMyCalculator\obj\Debug\AliceMyCalculator.pdb
+C:\CU Denver Courses\.Net Programming Fundamentals\AliceMyCalculator--Proj 3B\AliceMyCalculator\bin\Debug\AliceMyCalculator.exe.config
+C:\CU Denver Courses\.Net Programming Fundamentals\AliceMyCalculator--Proj 3B\AliceMyCalculator\bin\Debug\AliceMyCalculator.exe
+C:\CU Denver Courses\.Net Programming Fundamentals\AliceMyCalculator--Proj 3B\AliceMyCalculator\bin\Debug\AliceMyCalculator.pdb
+C:\CU Denver Courses\.Net Programming Fundamentals\AliceMyCalculator--Proj 3B\AliceMyCalculator\obj\Debug\AliceMyCalculator.csprojAssemblyReference.cache
+C:\CU Denver Courses\.Net Programming Fundamentals\AliceMyCalculator--Proj 3B\AliceMyCalculator\obj\Debug\AliceMyCalculator.frmStartPage.resources
+C:\CU Denver Courses\.Net Programming Fundamentals\AliceMyCalculator--Proj 3B\AliceMyCalculator\obj\Debug\AliceMyCalculator.Multiplication.resources
+C:\CU Denver Courses\.Net Programming Fundamentals\AliceMyCalculator--Proj 3B\AliceMyCalculator\obj\Debug\AliceMyCalculator.Properties.Resources.resources
+C:\CU Denver Courses\.Net Programming Fundamentals\AliceMyCalculator--Proj 3B\AliceMyCalculator\obj\Debug\AliceMyCalculator.csproj.GenerateResource.cache
+C:\CU Denver Courses\.Net Programming Fundamentals\AliceMyCalculator--Proj 3B\AliceMyCalculator\obj\Debug\AliceMyCalculator.csproj.CoreCompileInputs.cache
+C:\CU Denver Courses\.Net Programming Fundamentals\AliceMyCalculator--Proj 3B\AliceMyCalculator\obj\Debug\AliceMyCalculator.exe
+C:\CU Denver Courses\.Net Programming Fundamentals\AliceMyCalculator--Proj 3B\AliceMyCalculator\obj\Debug\AliceMyCalculator.pdb
